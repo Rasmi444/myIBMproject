@@ -21,6 +21,6 @@ ANALYSING AND MODELING:
 Analyzing and modeling a company, like ROC Company, involves assessing its financial health, performance, and potential for growth. 
 Data Collection,Financial Statement Analysis,Market Analysis,SWOT Analysis,Valuation Modeling.
 CONTRIBUTION:
-We welocome contributions to the “ROC company Analysis”project and In this project we can easily predict and analysis the registeration trends (ROC)by using this documentaions and submissions.
+We welcome contributions to the “ROC company Analysis”project and In this project we can easily predict and analysis the registration trends (ROC)by using this documentaions and submissions.
 
 
